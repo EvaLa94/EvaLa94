@@ -1,7 +1,5 @@
 <h1 >Hi 👋, I'm Eva</h1>
-<h3 >A front-end developer student from Italy!</h3>
-
-- 🌱 I’m currently learning **Javascrit** and I wish to become a Front-End developer. In the near future, I plan to study the framework **React**.
+<h3 >A web developer student from Italy!</h3>
 
 - 👨‍💻 I have always been passionate about computers and programming, and finally I am styding it in order to become a developer. Follow here my journey!
 
