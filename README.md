@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Eva</h1>
 <h3 >A web developer student from Italy!</h3>
 
-- 👨‍💻 I have always been passionate about computers and programming, and finally I am styding it in order to become a developer. Follow here my journey!
+👨‍💻 I have always been passionate about computers and programming, and finally I am studying it in order to become a developer. Follow here my journey!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
